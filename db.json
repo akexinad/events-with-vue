@@ -1,0 +1,64 @@
+{
+  "avvenimenti": [
+    {
+      "id": 5928753,
+      "user": {
+        "id": "mrx001",
+        "name": "Fellini"
+      },
+      "category": "Motor Sport",
+      "organizer": "Fellini",
+      "title": "Formula 1",
+      "description": "Dyson Vacuum Sponsorship",
+      "location": "San Gimignano",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 8411209,
+      "user": {
+        "id": "mrx002",
+        "name": "Benigni"
+      },
+      "category": "Horology",
+      "organizer": "Benigni",
+      "title": "Watchmaker's Society Meeting",
+      "description": "Watch out for this one!",
+      "location": "Magliano in Toscana",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "17:30",
+      "attendees": []
+    },
+    {
+      "id": 4588675,
+      "user": {
+        "id": "mrx003",
+        "name": "Mastroianni"
+      },
+      "category": "Gastronauts",
+      "organizer": "Mastroianni",
+      "title": "Italian Gastronomy",
+      "description": "Finger Licking Buono",
+      "location": "Pitigliano",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 9673454,
+      "user": {
+        "id": "mrx004",
+        "name": "Germi"
+      },
+      "category": "Sport",
+      "organizer": "Germi",
+      "title": "Calcio Storico",
+      "description": "The Oldest of Sports",
+      "location": "Florence",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "21:00",
+      "attendees": []
+    }
+  ]
+}

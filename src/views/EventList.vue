@@ -1,23 +1,36 @@
 <template>
   <div>
-    <h1>All The Lovely Things You Can Do!</h1>
-    <EventCard />
-    <BaseIcon />
+    <h1>All </h1>
+    <EventCard
+      v-for="event in events"
+      :key="event.id"
+      :event="event"
+    />
   </div>
 </template>
 
 <script>
   import EventCard from '@/components/EventCard.vue';
+  import EventService from '@/services/EventService.js';
 
   export default {
     components: {
       EventCard
+    },
+    data() {
+      return {
+        events: [],
+      }
+    },
+    created() {
+      EventService.getEvents()
+        .get('http://localhost:3000/avvenimenti')
+        .then( res => {
+          this.events = res.data
+        })
+        .catch( error => {
+          console.error(error.response);
+        })
     }
   }
 </script>
-
-<style>
-  h1 {
-    text-align: center;
-  }
-</style>

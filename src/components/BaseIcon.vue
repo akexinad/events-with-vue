@@ -5,10 +5,10 @@
       :width="width"
       :height="height"
     >
-      <use v-bind="{'xlink:href':'/feather-sprite.svg#'+name}" />
+      <use v-bind="{'xlink:href':'/feather-sprite.svg#' + name}" />
     </svg>
+    <slot></slot>
   </div>
-
 </template>
 
 <script>
