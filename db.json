@@ -13,7 +13,12 @@
       "location": "San Gimignano",
       "date": "2019-01-03T21:54:00.000Z",
       "time": "13:00",
-      "attendees": []
+      "attendees": [
+        { "name": "Fellini"},
+        { "name": "Benigni"},
+        { "name": "Mastroianni"},
+        { "name": "Germi"}
+      ]
     },
     {
       "id": 8411209,
@@ -23,12 +28,17 @@
       },
       "category": "Horology",
       "organizer": "Benigni",
-      "title": "Watchmaker's Society Meeting",
+      "title": "Watchmaker's Society",
       "description": "Watch out for this one!",
       "location": "Magliano in Toscana",
       "date": "2019-01-31T22:09:00.000Z",
       "time": "17:30",
-      "attendees": []
+      "attendees": [
+        { "name": "Fellini"},
+        { "name": "Benigni"},
+        { "name": "Mastroianni"},
+        { "name": "Germi"}
+      ]
     },
     {
       "id": 4588675,
@@ -43,7 +53,12 @@
       "location": "Pitigliano",
       "date": "2019-02-02T23:27:00.000Z",
       "time": "18:00",
-      "attendees": []
+      "attendees": [
+        { "name": "Fellini"},
+        { "name": "Benigni"},
+        { "name": "Mastroianni"},
+        { "name": "Germi"}
+      ]
     },
     {
       "id": 9673454,
@@ -58,7 +73,12 @@
       "location": "Florence",
       "date": "2019-02-02T23:27:00.000Z",
       "time": "21:00",
-      "attendees": []
+      "attendees": [
+        { "name": "Fellini"},
+        { "name": "Benigni"},
+        { "name": "Mastroianni"},
+        { "name": "Germi"}
+      ]
     }
   ]
 }

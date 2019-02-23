@@ -24,7 +24,6 @@
     },
     created() {
       EventService.getEvents()
-        .get('http://localhost:3000/avvenimenti')
         .then( res => {
           this.events = res.data
         })
