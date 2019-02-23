@@ -1,5 +1,7 @@
 # events-with-vue
 
+# README COMING SOON
+
 ## Project setup
 ```
 npm install
