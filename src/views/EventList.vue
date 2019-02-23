@@ -2,7 +2,7 @@
   <div>
     <h1>All The Lovely Things You Can Do!</h1>
     <EventCard />
-
+    <BaseIcon />
   </div>
 </template>
 
