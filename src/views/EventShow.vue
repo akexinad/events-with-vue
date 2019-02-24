@@ -43,7 +43,7 @@ import EventService from '@/services/EventService.js';
           console.log(this.event.attendees.length);
         })
         .catch( error => {
-          console.error( error.res )
+          console.error( error.response )
         })
     }
   }
