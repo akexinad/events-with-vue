@@ -1,76 +1,152 @@
 {
   "events": [
     {
-      "id": 1,
-      "title": "Beach Cleanup",
-      "date": "Aug 28 2018",
+      "id": 5928753,
+      "user": {
+        "id": "mrx001",
+        "name": "Fellini"
+      },
+      "category": "Motor Sport",
+      "organizer": "Fellini",
+      "title": "Formula 1",
+      "description": "Dyson Vacuum Sponsorship",
+      "location": "San Gimignano",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "13:00",
+      "attendees": [
+        {
+          "name": "Fellini"
+        },
+        {
+          "name": "Benigni"
+        },
+        {
+          "name": "Mastroianni"
+        },
+        {
+          "name": "Germi"
+        }
+      ]
+    },
+    {
+      "id": 8411209,
+      "user": {
+        "id": "mrx002",
+        "name": "Benigni"
+      },
+      "category": "Horology",
+      "organizer": "Benigni",
+      "title": "Watchmaker's Society",
+      "description": "Watch out for this one!",
+      "location": "Magliano in Toscana",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "17:30",
+      "attendees": [
+        {
+          "name": "Fellini"
+        },
+        {
+          "name": "Benigni"
+        },
+        {
+          "name": "Mastroianni"
+        },
+        {
+          "name": "Germi"
+        }
+      ]
+    },
+    {
+      "id": 4588675,
+      "user": {
+        "id": "mrx003",
+        "name": "Mastroianni"
+      },
+      "category": "Gastronauts",
+      "organizer": "Mastroianni",
+      "title": "Italian Gastronomy",
+      "description": "Finger Licking Buono",
+      "location": "Pitigliano",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "18:00",
+      "attendees": [
+        {
+          "name": "Fellini"
+        },
+        {
+          "name": "Benigni"
+        },
+        {
+          "name": "Mastroianni"
+        },
+        {
+          "name": "Germi"
+        }
+      ]
+    },
+    {
+      "id": 9673454,
+      "user": {
+        "id": "mrx004",
+        "name": "Germi"
+      },
+      "category": "Sport",
+      "organizer": "Germi",
+      "title": "Calcio Storico",
+      "description": "The Oldest of Sports",
+      "location": "Florence",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "21:00",
+      "attendees": [
+        {
+          "name": "Fellini"
+        },
+        {
+          "name": "Benigni"
+        },
+        {
+          "name": "Mastroianni"
+        },
+        {
+          "name": "Germi"
+        }
+      ]
+    },
+    {
+      "id": 56866812,
+      "user": {
+        "id": "mrx001",
+        "name": "Federico Fellini"
+      },
+      "category": "carpentry",
+      "oganizer": {
+        "id": "mrx001",
+        "name": "Federico Fellini"
+      },
+      "title": "I Wood",
+      "description": "I wood love to make a table",
+      "location": "Woody's house",
+      "date": "2019-04-03T18:56:00.000Z",
       "time": "10:00",
-      "location": "Daytona Beach",
-      "description": "Let's clean up this beach.",
-      "organizer": "Adam Jahr",
-      "category": "sustainability",
-      "attendees": [
-        {
-          "id": "abc123",
-          "name": "Adam Jahr"
-        },
-        {
-          "id": "def456",
-          "name": "Gregg Pollack"
-        },
-        {
-          "id": "ghi789",
-          "name": "Beth Swanson"
-        },
-        {
-          "id": "jkl101",
-          "name": "Mary Gordon"
-        }
-      ]
+      "attendees": []
     },
     {
-      "id": 2,
-      "title": "Park Cleanup",
-      "date": "Nov 12 2018",
+      "id": 37470063,
+      "user": {
+        "id": "mrx001",
+        "name": "Federico Fellini"
+      },
+      "category": "watchmaking",
+      "oganizer": {
+        "id": "mrx001",
+        "name": "Federico Fellini"
+      },
+      "title": "testtitle",
+      "description": "test desc",
+      "location": "sydney",
+      "date": "2019-02-06T19:05:00.000Z",
       "time": "12:00",
-      "location": "132 N Magnolia Street, Orlando, Florida",
-      "description": "We're going to clean up this park.",
-      "organizer": "Adam Jahr",
-      "category": "nature",
-      "attendees": [
-        {
-          "id": "ghi789",
-          "name": "Beth Swanson"
-        },
-        {
-          "id": "jkl101",
-          "name": "Mary Gordon"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Pet Adoption Day",
-      "date": "Dec 2 2018",
-      "time": "12:00",
-      "location": "132 N Magnolia Street, Orlando, Florida",
-      "description": "Help animals find new homes.",
-      "organizer": "Gregg Pollack",
-      "category": "animal welfare",
-      "attendees": [
-        {
-          "id": "abc123",
-          "name": "Adam Jahr"
-        },
-        {
-          "id": "ghi789",
-          "name": "Beth Swanson"
-        },
-        {
-          "id": "jkl101",
-          "name": "Mary Gordon"
-        }
-      ]
+      "attendees": []
     }
   ]
 }
