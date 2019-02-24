@@ -1,11 +1,8 @@
-import axios from 'axios';
+import axios from 'axios'
 
-// This creates a single axios instance for the entire app.
 const apiClient = axios.create({
-  // Base URL for all calls to use.
-  baseURL: 'http://localhost:3000',
-  withCredentials: false,
-  // For authentication and configuration.
+  baseURL: `http://localhost:3000`,
+  withCredentials: false, // This is the default
   headers: {
     Accept: 'application/json',
     'Content-Type': 'application/json'
